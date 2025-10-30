@@ -1,7 +1,7 @@
 # Navigation Links Fix - Implementation
 
 ## Issue Description
-Navigation links defined in `myst.yml` (lines 29-42) were working correctly with `myst start --execute` in local development but not rendering properly when deployed to GitHub Pages via GitHub Actions.
+Navigation links defined in `myst.yml` (site.nav at lines 36-42, site.actions added at lines 29-35) were working correctly with `myst start --execute` in local development but not rendering properly when deployed to GitHub Pages via GitHub Actions.
 
 ## Changes Made
 
@@ -46,7 +46,7 @@ site:
 - Known issues in myst-theme repository (#601, #458) document similar navigation problems
 
 ### MyST Version Compatibility
-- Current GitHub Actions uses mystmd v1.6.3 (October 2025)
+- Current GitHub Actions uses mystmd v1.6.3 (released October 2024)
 - This version includes support for both `site.nav` and `site.actions`
 - The `book-theme` template supports both navigation methods
 
