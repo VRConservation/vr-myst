@@ -1,23 +1,11 @@
-# MyST Quickstart
+# About
+Welcome to the Vance Book. This online version of my CV includes my work and educational history, projects I've worked on as a consultant with 3point.xyz, publications, and testimonials from clients about 3point.xyz's work. The full book is at [3point.xyz/myst-cv](3point.xyz/myst-cv).
 
-[![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)
+## Bio
+**Vance Russell** has nearly 40 years of experience working in forest science & management, rewilding, biodiversity conservation, agricultural landscapes, restoration, and natural resources management. He is a conservation consultant, principal and owner of [3point.xyz](https://3point.xyz). Vance works for various non-profit, state/federal agencies, and private businesses. Vance was the California Director of Programs for the National Forest Foundation, where he managed, led, and funded community forestry projects. Before joining the National Forest Foundation, he was director of Audubon California’s Landowner Stewardship Program, working with farmers and ranchers to restore habitat compatible with existing agricultural operations. He managed the 7,800-acre Bobcat Ranch and 3,000-acre Mayacamas Mountains Reserve in Yolo and Sonoma Counties, California. Vance is the former Board Chair of Groundswell International, is a trustee for the South Downs National Park Trust, and serves on the Rewilding Leadership Council for the Rewilding Institute. Vance received his M.S. degree in Forest Science and Natural Resources Management from Cornell University and a B.A. in Biology from the College of Wooster.
 
-This repository contains the files used in the [quickstart guide](https://mystmd.org/guide/quickstart), and can be used to follow that guide, before trying MyST with your own content.
 
-> **Note** This is **not** a good example of an actual MyST project! The repositories purpose is to be a simple markdown + notebook repository that can be transformed throughout a tutorial.
-
-The goals of the [quickstart guide](https://myst.tools/docs/mystjs/quickstart) are:
-
-1. Create a `myst` site, using the standard template
-2. Improve the frontmatter, to add authors, affiliations and other metadata
-3. Export the paper as a PDF, Word document, and LaTeX files
-4. Integrate a Jupyter Notebook output into our paper, to improve reproducibility
-5. Publish a website of with our work 🚀
-
-## Improving Frontmatter and MyST Site
-
-![](./images/frontmatter-after.png)
-
-## Export as a PDF
-
-![](./images/export-pdf.png)
+```{image} ./images/vance.jpg
+:height: 400px
+:name: vance
+```

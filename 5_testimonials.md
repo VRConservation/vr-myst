@@ -1,0 +1,13 @@
+# Testimonials
+
+> "Vance has supported two innovative efforts for the Yuba Water Agency. He helped to develop guidance documents for innovative financing tools for rural and disadvantaged communities to help solve water infrastructure funding gaps through the Department of Water Resources Disadvantaged Community Involvement Program." JoAnna Lessard, Yuba Water Agency
+
+> "It was great to have Vance Russell's support in developing the Marin Regional Forest Health Strategy. Vance was a great thought partner and brought a really valuable statewide perspective to our process. I would encourage anyone considering working with Vance to take full advantage of his ability to think broadly and holistically about challenges impacting the landscapes your agency or organization helps to steward." Danny Franco, Golden Gate National Park Conservancy
+
+> "Vance and Emma were an absolute pleasure to work with. They have great listening skills to understand what is being asked of them; they are extremely knowledgeable and experienced in providing their consultancy services. Their work was very thorough, with comprehensive reporting. They kept very much to the brief given whilst able to suggest alternative or additional options. Their research work was very thorough. They communicated extremely well with the farmers that we were dealing with. Excellent consultants!" Linda Nunn, Cranborne Chase National Landscape
+
+> "Very responsive and professional. Vance created creative promotional materials for our startup venture. He saved considerable time for our company by understanding our needs and taking immediate and efficient action." Todd Sloat, Feather River, and Hat Creek Resource Conservation Districts
+
+> "I've worked with Vance on a range of projects related to conservation finance and forest health/wildfire resilience for over five years. Vance always brings not only a depth of existing knowledge but an ability to quickly gain expertise in new areas, often with new technologies. I'm always impressed with his creative approach to developing new, effective resources to share and manage information." Jeff Odefey, One Water Econ
+
+> “Vance was an instrumental partner on the Sonoma County Wood Recovery & Utilization Project. He assessed our county’s vulnerable communities and identified priority forest treatment acres that could protect them from wildfires. He also supported our project with an analysis on the potential number of direct and indirect jobs that could be created through the establishment of a new wood processing facility. We’re appreciative of his effort and collaboration on this project; his involvement greatly increased the value of our final study.” Temra Costa, Director, Regenerative Forest Solutions
