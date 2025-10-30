@@ -11,12 +11,12 @@ subtitle: Vance Russell has nearly 40 years of experience working in forest scie
 date: 2025-05-01
 # curvenote template works well
 exports:
-  - format: pdf
+  - format: docx
     template: curvenote
-    output: exports/vance-cv.pdf
-    id: vance-cv.pdf
+    output: exports/vance-cv.docx
+    id: vance-cv.docx
 downloads:
-  - id: vance-cv.pdf
+  - id: vance-cv.docx
     title: Vance Russell CV
 ---
 
