@@ -1,6 +1,6 @@
 # Projects
 ## HIGHLIGHTS
-Select highlights of projects include the following: 
+Select highlights of recent projects include the following: 
 
 :::{important} North Coast Resource Partnership 🐟
 :class: dropdown
