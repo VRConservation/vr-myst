@@ -21,7 +21,7 @@ project:
 
 site:
   template: book-theme
-  url: https://3point.xyz/vr-myst
+  # url: https://3point.xyz/vr-myst
   options:
     favicon: images/3point.ico
     logo: images/logo.png
